@@ -1,0 +1,13 @@
+body {
+  line-height: 2em; /* 行の高さ */
+  font-family: 'Noto Sans JP', sans-serif;
+}
+.chord {
+  position: relative; /* 相対配置 */
+  font-size: 0.8em; /* 小さいサイズ */
+  color: blue; /* 文字色青 */
+  top: -1em; /* 上にずらす */
+}
+.key{
+  color: grey; /* 文字色赤 */
+}
