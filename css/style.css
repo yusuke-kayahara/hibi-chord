@@ -1,6 +1,7 @@
 body {
   line-height: 2em; /* 行の高さ */
   font-family: 'Noto Sans JP', sans-serif;
+  width: 70% /* 幅 */
 }
 .chord {
   position: relative; /* 相対配置 */
