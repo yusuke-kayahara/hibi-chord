@@ -1,7 +1,13 @@
 body {
   line-height: 2em; /* 行の高さ */
   font-family: 'Noto Sans JP', sans-serif;
-  width: 70% /* 幅 */
+  width: 70%; /* 幅 */
+  margin: 0; /* ブラウザのデフォルト余白をリセット */
+  padding: 0;
+  background-color: #f7f7f7; /* 背景色 */
+}    
+.container {
+  margin: 0 auto; /* 左右中央寄せ */
 }
 .chord {
   position: relative; /* 相対配置 */

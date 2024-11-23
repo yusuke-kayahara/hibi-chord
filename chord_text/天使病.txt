@@ -1,0 +1,31 @@
+キー: A → Bb
+チューニング: 半音下げ
+
+{key:A}
+い[DM7]つかは離れるこ[C#m7]とは分かっていた
+行[DM7]かないでほしいと言[C#m7]えるわけもなかった
+
+[DM7]繋いだ[C#m7]手が
+[DM7]小さく[C#m7]震えていた
+[DM7]何も言え[C#m7]ずに
+[BbM7]君を突き飛ばした
+[Fm7b5]
+
+{key:Bb}
+
+The [EM7]angel’s [D#m7]lost her wings[G#m7] [F#m7] [B7]
+The [EM7]angel’s [D#m7]lost her wings[G#m7] 
+The [EM7]angel’s [D#m7]lost her wings[G#m7] [F#m7] [B7]
+So [EM7]you should [D#m7]go anyway[G#m7]
+
+[EM7]---- [D#m7]---- [G#m7]----- [F#m7]-- [B7]--
+[EM7]---- [D#m7]---- [G#m7]-----|-----
+[EM7]---- [D#m7]---- [G#m7]----- [F#m7]-- [B7]--
+[EM7]---- [D#m7]---- [G#m7]-----|-----
+
+The [EM7]angel’s lost her wings[D#m7] [F#m7] [B7]
+The [G#m7]angel’s lost her wings [F#m7] [B7]
+The [EM7]angel’s lost her wings[D#m7] [F#m7] [B7]
+So [G#m7]you should go anyway[F#m7] [B7]
+
+([EM7]---- [D#m7]---- [G#m7]----- [F#m7]-- [B7]--) *8
