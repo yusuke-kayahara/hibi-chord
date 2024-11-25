@@ -4,6 +4,13 @@ body {
   padding: 0;
   background-color: #f7f7f7; /* 背景色 */
 }
+.parent{
+  display: flex; /* フレックスボックス */
+  flex-wrap: wrap; /* 折り返し */
+  justify-content: center; /* 中央寄せ */
+  align-items: center;
+  height: 100vh; /* 画面の高さいっぱい */
+}
 .container {
   margin: 0 auto; /* 左右中央寄せ */
   max-width: 600px;
