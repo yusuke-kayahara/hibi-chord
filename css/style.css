@@ -1,6 +1,7 @@
 body {
   font-family: 'Noto Sans JP', sans-serif;
   background-color: #f7f7f7; /* 背景色 */
+  margin: 0; /* 余白なし */
 }
 .index_parent{
   display: flex; /* フレックスボックス */
