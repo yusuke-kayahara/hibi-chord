@@ -1,15 +1,19 @@
 body {
   font-family: 'Noto Sans JP', sans-serif;
-  margin: 20px; /* ブラウザのデフォルト余白をリセット */
-  padding: 0;
   background-color: #f7f7f7; /* 背景色 */
 }
-.parent{
+.index_parent{
   display: flex; /* フレックスボックス */
   flex-wrap: wrap; /* 折り返し */
   justify-content: center; /* 中央寄せ */
   align-items: center;
   height: 100vh; /* 画面の高さいっぱい */
+}
+.chord_parent{
+  display: flex; /* フレックスボックス */
+  flex-wrap: wrap; /* 折り返し */
+  justify-content: center; /* 中央寄せ */
+  margin: 20px 0; /* 上下に余白 */
 }
 .container {
   margin: 0 auto; /* 左右中央寄せ */
