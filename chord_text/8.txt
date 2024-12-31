@@ -1,5 +1,6 @@
-キー: F
-チューニング: 半音下げ
+Tuning: 半音下げ
+Original Key: F
+Play Key: F#
 
 [F#]
 ま[F#/B]た新しい季節[F#/C#]が君を連れて

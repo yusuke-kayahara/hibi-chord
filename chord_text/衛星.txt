@@ -1,5 +1,6 @@
-キー: Db
-チューニング: 半音下げ
+Tuning: 半音下げ
+Original Key: Db
+Play Key: D
 
 [D/G]振り切れたはずが気づけばこのザマだ[FM6]
 [D/G]忘れられんな　不細工なフライヤー[AbM6]

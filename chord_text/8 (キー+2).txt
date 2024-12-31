@@ -1,5 +1,6 @@
-キー: G
-チューニング: 半音下げ
+Tuning: 半音下げ
+Original Key: G
+Play Key: Ab
 
 [Ab]
 ま[Ab/Db]た新しい季節[Ab/Eb]が君を連れて

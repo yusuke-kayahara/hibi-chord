@@ -1,5 +1,6 @@
-キー: Eb 
-チューニング: 半音下げ
+Tuning: 半音下げ
+Original Key: Eb
+Play Key: E
 
 ([EM7] |----|----|----[BM7/F#]|----)*4
 

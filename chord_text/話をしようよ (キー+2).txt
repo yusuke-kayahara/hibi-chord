@@ -1,5 +1,6 @@
-キー: Ab
-チューニング: 半音下げ + Capo2
+Tuning: 半音下げ + Capo2
+Original Key: Ab
+Play Key: G
 
 [G]
 [G]散々だった日々が高速で[G/C]過ぎ去って[G/D]いった

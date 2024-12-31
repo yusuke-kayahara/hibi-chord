@@ -1,5 +1,6 @@
-キー: E
-チューニング: 半音下げ + Capo1 
+Tuning: 半音下げ + Capo1
+Original Key: E
+Play Key: E
 
 ([E/A]----[E/G#]----)×2
 
