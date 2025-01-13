@@ -22,36 +22,36 @@ return (
   </table>
   <p className="leading-[2em]">
     <br />
-    (<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>----<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>----)×2<br />
+    (<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>----<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>----)×2<br />
     <br />
-    <span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>毛と皮があった<br />
-    <span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>魂のすき間　祈りの影<br />
-    <span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>精霊を見たんだ<br />
-    <span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>感覚の欠片<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/B</span>　そして<br />
+    <span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>毛と皮があった<br />
+    <span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>魂のすき間　祈りの影<br />
+    <span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>精霊を見たんだ<br />
+    <span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>感覚の欠片<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/B</span>　そして<br />
     <br />
-    永遠の向こう<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>へ<br />
-    共鳴状態<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>で<br />
-    永遠の向こう<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>へ<br />
-    一緒に行こう<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>ぜ<br />
+    永遠の向こう<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>へ<br />
+    共鳴状態<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>で<br />
+    永遠の向こう<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>へ<br />
+    一緒に行こう<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>ぜ<br />
     <br />
-    (<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>----<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>----)×2<br />
+    (<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>----<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>----)×2<br />
     <br />
-    <span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>皹割れた皮の焼けるような<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>痛み<br />
+    <span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>皹割れた皮の焼けるような<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>痛み<br />
     凍える肌<br />
-    <span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>光は流れる<br />
-    <span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>声の方へ<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/B</span>　そして<br />
+    <span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>光は流れる<br />
+    <span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>声の方へ<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/B</span>　そして<br />
     <br />
-    永遠の向こう<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>へ<br />
-    共鳴状態<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>で<br />
-    永遠の向こう<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>へ<br />
-    一緒に行こう<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>ぜ<br />
+    永遠の向こう<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>へ<br />
+    共鳴状態<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>で<br />
+    永遠の向こう<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>へ<br />
+    一緒に行こう<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>ぜ<br />
     <br />
-    永遠の向こう<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>へ<br />
-    共鳴状態<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>で<br />
-    永遠の向こう<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>へ<br />
-    一緒に行こう<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>ぜ<br />
+    永遠の向こう<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>へ<br />
+    共鳴状態<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>で<br />
+    永遠の向こう<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>へ<br />
+    一緒に行こう<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>ぜ<br />
     <br />
-    (<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>----<span class="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>----)×2
+    (<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/A</span>----<span className="relative text-[0.8em] text-blue-500 -top-[1em]">E/G#</span>----)×2
   </p>
 </div>
 );

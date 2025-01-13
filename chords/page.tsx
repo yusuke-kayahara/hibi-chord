@@ -38,7 +38,7 @@ export default function ChordPage() {
             className="underline underline-offset-2 text-blue-500 visited:text-purple-500"
             href="/chords/004-2_Talk_(Live_version)"
           >
-            話をしようよ (Live ver)
+            話をしようよ (Live version)
           </a>
         </li>
 
