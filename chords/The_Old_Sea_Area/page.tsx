@@ -24,7 +24,7 @@ return (
     <br />
     (<span class="relative text-[0.8em] text-blue-500 -top-[1em]">EM7</span> |----|----|----<span class="relative text-[0.8em] text-blue-500 -top-[1em]">BM7/F#</span>|----)*4<br />
     <br />
-    <span class="relative text-[0.8em] text-blue-500 -top-[1em]">EM7</span>腐り出したこの地に 花は咲かない<br />
+    <span class="relative text-[0.8em] text-blue-500 -top-[1em]">EM7</span>腐り果てたこの地に 花は咲かない<br />
     ただ灰が積<span class="relative text-[0.8em] text-blue-500 -top-[1em]">BM7(11)/F#</span>もっていく<br />
     <br />
     <span class="relative text-[0.8em] text-blue-500 -top-[1em]">EM7</span>諦めかけた想いが胸を刺す 船を出す　<br />
