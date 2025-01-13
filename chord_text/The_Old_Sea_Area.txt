@@ -1,3 +1,4 @@
+Song Name: 旧海域
 Tuning: 半音下げ
 Original Key: Eb
 Play Key: E

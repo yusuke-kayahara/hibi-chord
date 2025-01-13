@@ -1,15 +1,16 @@
+Song Name: 天使病
 Tuning: 半音下げ
 Original Key: A → Bb
 Play Key: Ab → B
 
-{key:Ab}
+[key:Ab]
 い[EbM7]つかは離れるこ[Dm7]とは分かっていた
 行[EbM7]かないでほしいと言[Dm7]えるわけもなかった
 
 [EbM7]繋いだ[Dm7]手が
 [EbM7]小さく[Dm7]震えていた
 [EbM7]何も言え[Dm7]ずに
-{key: B}
+[key: B]
 [BbM7]君を突き飛ばした
 [Fm7b5]
 

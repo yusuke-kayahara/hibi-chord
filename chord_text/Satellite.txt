@@ -1,3 +1,4 @@
+Song Name: 衛星
 Tuning: 半音下げ
 Original Key: Db
 Play Key: D

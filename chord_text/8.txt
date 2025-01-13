@@ -1,3 +1,4 @@
+Song Name: 8
 Tuning: 半音下げ
 Original Key: F
 Play Key: F#
