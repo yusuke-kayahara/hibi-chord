@@ -2,6 +2,8 @@
 export default function ChordPage() {
 return (
 <div className="p-4 font-mono">
+  <a href="../../">TOPページに戻る</a>
+  <br />
   <h1 className="text-3xl font-bold">衛星</h1>
   <hr className="mb-4" />
   <table className="table-auto">
@@ -17,6 +19,10 @@ return (
       <tr>
         <td className="border px-2 py-1">Play Key</td>
         <td className="border px-2 py-1">D</td>
+      </tr>
+      <tr>
+        <td className="border px-2 py-1">BPM</td>
+        <td className="border px-2 py-1">150</td>
       </tr>
     </tbody>
   </table>

@@ -2,6 +2,7 @@ Song Name: Purkinje
 Tuning: 半音下げ
 Original Key: F# → G → F# → Ab
 Play Key: G → Ab → G → A
+BPM: 150
 
 [key:G]
 [CM7]言い出せないことばかりが[Bm7]積もって

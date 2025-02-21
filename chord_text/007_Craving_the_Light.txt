@@ -2,6 +2,7 @@ Song Name: 光が欲しい
 Tuning: 半音下げ + Capo2
 Original Key: Eb
 Play Key: D
+BPM: 70
 
 ([Em9]----[A7sus4]----[Bm7]----[F#m7]----)*2
 

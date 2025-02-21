@@ -2,6 +2,7 @@ Song Name: 衛星
 Tuning: 半音下げ
 Original Key: Db
 Play Key: D
+BPM: 150
 
 [D/G]振り切れたはずが気づけばこのザマだ[FM6]
 [D/G]忘れられんな　不細工なフライヤー[AbM6]

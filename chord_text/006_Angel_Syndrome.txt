@@ -2,6 +2,7 @@ Song Name: 天使病
 Tuning: 半音下げ
 Original Key: A → Bb
 Play Key: Ab → B
+BPM: 160
 
 [key:Ab]
 い[EbM7]つかは離れるこ[Dm7]とは分かっていた

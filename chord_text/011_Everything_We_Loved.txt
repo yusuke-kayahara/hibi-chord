@@ -2,6 +2,7 @@ Song Name: Everything We Loved
 Tuning: 半音下げ
 Original Key: Db
 Play Key: D
+BPM: 120 → 160
 
 い[D/G]つか[D/A]は届[D/B]くと思っていた
 壊[D/G]せ[D/A]ないも[D/B]のに気づいた

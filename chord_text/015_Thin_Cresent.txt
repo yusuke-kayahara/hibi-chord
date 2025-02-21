@@ -2,6 +2,7 @@ Song Name: 二日月
 Tuning: 半音下げ 
 Original Key: Eb
 Play Key: E
+BPM: 120
 
 [EM7]今にも消えそうな月を見て
 [D#m7]君は無責任に笑った

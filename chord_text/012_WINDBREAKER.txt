@@ -2,6 +2,7 @@ Song Name: WINDBREAKER
 Tuning: 半音下げ 
 Original Key: Ab
 Play Key: A
+BPM: 120
 
 [DM7]----|----[C#m7]----[F#m7]----
 [DM7]----|----[C#m7]----[F#m7]--[G#m7b5]--

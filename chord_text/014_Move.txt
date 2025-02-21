@@ -2,6 +2,7 @@ Song Name: 動け
 Tuning: 半音下げ 
 Original Key: B
 Play Key: C
+BPM: 130
 
 [N.C.]
 

@@ -2,6 +2,7 @@ Song Name: 毛と皮
 Tuning: 半音下げ + Capo1
 Original Key: E
 Play Key: E
+BPM: 180
 
 ([E/A]----[E/G#]----)×2
 

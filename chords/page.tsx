@@ -2,6 +2,8 @@
 export default function ChordPage() {
   return (
     <div className="p-4 font-mono">
+      <a href="../../">TOPページに戻る</a>
+      <br />
       <h1 className="text-3xl font-bold">罅 コード譜集</h1>
       <hr className="mb-4" />
       <ul className="list-disc list-inside ml-2">
@@ -129,6 +131,33 @@ export default function ChordPage() {
             href="/chords/013_Dragons"
           >
             龖
+          </a>
+        </li>
+
+        <li>
+          <a
+            className="underline underline-offset-2 text-blue-500 visited:text-purple-500"
+            href="/chords/014_Move"
+          >
+            動け
+          </a>
+        </li>
+
+        <li>
+          <a
+            className="underline underline-offset-2 text-blue-500 visited:text-purple-500"
+            href="/chords/015_Thin_Cresent"
+          >
+            二日月
+          </a>
+        </li>
+
+        <li>
+          <a
+            className="underline underline-offset-2 text-blue-500 visited:text-purple-500"
+            href="/chords/016_Cant_Forget_Cant_Recall"
+          >
+            忘れられない 思い出せない
           </a>
         </li>
 

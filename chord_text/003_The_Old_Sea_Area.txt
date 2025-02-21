@@ -2,6 +2,7 @@ Song Name: 旧海域
 Tuning: 半音下げ
 Original Key: Eb
 Play Key: E
+BPM: 120
 
 ([EM7] |----|----|----[BM7/F#]|----)*4
 

@@ -2,6 +2,7 @@ Song Name: 忘れられない 思い出せない
 Tuning: 半音下げ 
 Original Key: F#
 Play Key: G
+BPM: 120
 
 [G]忘れられないが[Bm7b5]思い出せ[Em7]ない
 [CM7]頭のどこかの[Bm7]彼[BbM6]ら[D/F#]が

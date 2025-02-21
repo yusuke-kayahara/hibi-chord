@@ -2,6 +2,7 @@ Song Name: 龖
 Tuning: 半音下げ 
 Original Key: Ab
 Play Key: A
+BPM: 200
 
 [N.C.]
 

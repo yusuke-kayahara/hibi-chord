@@ -2,6 +2,7 @@ Song Name: 毛と皮 (Live version)
 Tuning: 半音下げ + Capo2
 Original Key: F
 Play Key: E
+BPM: 180
 
 ([E/A]----[E/G#]----)×2
 
