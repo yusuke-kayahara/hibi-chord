@@ -4,7 +4,7 @@ return (
 <div className="p-4 font-mono">
   <a href="../../">TOPページに戻る</a>
   <br />
-  <h1 className="text-3xl font-bold">龖</h1>
+  <h1 className="text-3xl font-bold">朧</h1>
   <hr className="mb-4" />
   <table className="table-auto">
     <tbody>

@@ -1,0 +1,42 @@
+Song Name: 花發けば
+Tuning: 半音下げ 
+Original Key: E → G
+Play Key: F → Ab
+BPM: 160 
+
+季[Dm7]節外れの[Am7]大[BbM7]雨の中[FM7]
+流[Dm7]されて[Am7]く花をずっ[BbM7]と見ていた[FM7]
+過ぎ[Dm7]る時間に[Am7]立ち止[BbM7]まったまま[FM7]
+離[Dm7]れてく[Am7]月をずっ[BbM7]と見ていた[FM7]
+
+([Dm7]----[Am7]----[BbM7]----[FM7]----)*2
+
+足り[Dm7]ないものと[Am7]あり[BbM7]すぎるもの[FM7]
+分[Dm7]け合えな[Am7]い僕らの[BbM7]手の中[FM7]
+折れ[Dm7]た翼の[Am7]祈[BbM7]りのように[FM7]
+解[Dm7]かれた手[Am7]を目[BbM7]指した[FM7]
+
+[C7]
+
+[key:Ab]
+[Fm7]泡になって[Cm7]弾けた
+[DbM7]風になって[AbM7]消えた
+I’m [DbM7]wandering to [AbM7]be with you [Gm7b5]until the summer’s gone[C7]
+[Fm7]花のように[Cm7]僕らは
+[DbM7]花のように[AbM7]僕らは
+I’m [DbM7]wandering to [AbM7]be with you [Gm7b5]until the summer’s gone[C7]
+
+[Fm7]----[Cm7]---- [DbM7]----[AbM7]---- 
+[DbM7]----[AbM7]----[Gm7b5]----[C7]----
+
+[Fm7]季節外れの[Cm7]大[DbM7]雨の中[AbM7]  
+[DbM7]流されて[AbM7]く花をずっ[Gm7b5]と見ていた[C7]  
+[Fm7]過ぎる時間に[Cm7]立ち止[DbM7]まったまま[AbM7]  
+[DbM7]離れてく[AbM7]月をずっ[Gm7b5]と見ていた[C7]
+
+[Fm7]足りないものと[Cm7]あり[DbM7]すぎるもの[AbM7]  
+[DbM7]分け合えな[AbM7]い僕らの[Gm7b5]手の中[C7]  
+[Fm7]折れた翼の[Cm7]祈[DbM7]りのように[AbM7]  
+[DbM7]解かれた手[AbM7]を目[Gm7b5]指した[C7]
+
+[Fm7]

@@ -130,7 +130,7 @@ export default function ChordPage() {
             className="underline underline-offset-2 text-blue-500 visited:text-purple-500"
             href="/chords/013_Dragons"
           >
-            龖
+            朧
           </a>
         </li>
 
@@ -158,6 +158,51 @@ export default function ChordPage() {
             href="/chords/016_Cant_Forget_Cant_Recall"
           >
             忘れられない 思い出せない
+          </a>
+        </li>
+
+        <li>
+          <a
+            className="underline underline-offset-2 text-blue-500 visited:text-purple-500"
+            href="/chords/017_Flower"
+          >
+            花發けば
+          </a>
+        </li>
+
+        <li>
+          <a
+            className="underline underline-offset-2 text-blue-500 visited:text-purple-500"
+            href="/chords/018_UNDRUNK"
+          >
+            UNDRUNK
+          </a>
+        </li>
+
+        <li>
+          <a
+            className="underline underline-offset-2 text-blue-500 visited:text-purple-500"
+            href="/chords/019_wakare_no_kisetsu"
+          >
+            wakare no kisetsu
+          </a>
+        </li>
+
+        <li>
+          <a
+            className="underline underline-offset-2 text-blue-500 visited:text-purple-500"
+            href="/chords/020_GUITAR"
+          >
+            GUITAR
+          </a>
+        </li>
+
+        <li>
+          <a
+            className="underline underline-offset-2 text-blue-500 visited:text-purple-500"
+            href="/chords/021_Lead_Me"
+          >
+            導いてくれ
           </a>
         </li>
 
